@@ -1,0 +1,4 @@
+C:\gitFuentes\ws-interfaz164\wsInterfaz164\obj\Debug\wsInterfaz164.Resources.resources
+C:\gitFuentes\ws-interfaz164\wsInterfaz164\obj\Debug\wsInterfaz164.vbproj.GenerateResource.cache
+C:\gitFuentes\ws-interfaz164\wsInterfaz164\obj\Debug\wsInterfaz164.vbproj.CoreCompileInputs.cache
+C:\gitFuentes\ws-interfaz164\wsInterfaz164\obj\Debug\wsInterfaz164.vbprojAssemblyReference.cache
